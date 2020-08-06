@@ -1,0 +1,11 @@
+C:\Users\korja\Documents\ChromeDino\ChromeDino\bin\Debug\ChromeDino.exe.config
+C:\Users\korja\Documents\ChromeDino\ChromeDino\bin\Debug\ChromeDino.exe
+C:\Users\korja\Documents\ChromeDino\ChromeDino\bin\Debug\ChromeDino.pdb
+C:\Users\korja\Documents\ChromeDino\ChromeDino\obj\Debug\ChromeDino.csprojAssemblyReference.cache
+C:\Users\korja\Documents\ChromeDino\ChromeDino\obj\Debug\ChromeDino.Properties.Resources.resources
+C:\Users\korja\Documents\ChromeDino\ChromeDino\obj\Debug\ChromeDino.csproj.GenerateResource.cache
+C:\Users\korja\Documents\ChromeDino\ChromeDino\obj\Debug\ChromeDino.csproj.CoreCompileInputs.cache
+C:\Users\korja\Documents\ChromeDino\ChromeDino\obj\Debug\ChromeDino.exe
+C:\Users\korja\Documents\ChromeDino\ChromeDino\obj\Debug\ChromeDino.pdb
+C:\Users\korja\Documents\ChromeDino\ChromeDino\obj\Debug\ChromeDino.Game.resources
+C:\Users\korja\Documents\ChromeDino\ChromeDino\obj\Debug\ChromeDino.ListScore.resources
